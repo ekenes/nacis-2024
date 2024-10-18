@@ -18,7 +18,7 @@ _Not yet available_
 
 ### Slides
 
-[Download PDF slides]()
+[Download PDF slides](https://raw.githubusercontent.com/ekenes/nacis-2024/refs/heads/main/ekenes-mapping-and-generative-ai.pdf)
 
 ### Other Resources
 
