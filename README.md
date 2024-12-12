@@ -14,7 +14,7 @@ Kristian Ekenes
 
 ### Video
 
-_Not yet available_
+[Creating Thematic Maps with the Help of Generative AI - Kristian Ekenes, Esri](https://www.youtube.com/watch?v=GcK37u3xzvI&ab_channel=NACIS)
 
 ### Slides
 
